@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.x_58872_needit_needit.logging.verbosity</name>
+        <read_roles/>
+        <suffix>x_58872_needit_needit.logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-01 15:02:12</sys_created_on>
+        <sys_id>41c85b97dbb3001095fc294648961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.x_58872_needit_needit.logging.verbosity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_41c85b97dbb3001095fc294648961924</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-01 15:02:12</sys_updated_on>
+        <type>string</type>
+        <value>debug</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=41c85b97dbb3001095fc294648961924"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>110effaddb0e7b0842b321c405961989</instance_id>
+        <instance_name>dev87440</instance_name>
+        <name>sys_properties_41c85b97dbb3001095fc294648961924</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_58872_needit.x_58872_needit_needit.logging.verbosity</name><read_roles/><suffix>x_58872_needit_needit.logging.verbosity</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-01 15:02:12</sys_created_on><sys_id>41c85b97dbb3001095fc294648961924</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.x_58872_needit_needit.logging.verbosity</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_41c85b97dbb3001095fc294648961924</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-01 15:02:12</sys_updated_on><type>string</type><value>debug</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=41c85b97dbb3001095fc294648961924"/></record_update>]]></payload>
+        <payload_hash>-193567891</payload_hash>
+        <record_name>x_58872_needit.x_58872_needit_needit.logging.verbosity</record_name>
+        <reverted_from/>
+        <source>d164be93db33001095fc294648961948</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-01 15:02:14</sys_created_on>
+        <sys_id>abf8db57dbb3001095fc294648961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1713643a1630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-01 15:02:14</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>aff8db57ceb300100aaaba1ee8c6ac11</update_guid>
+        <update_guid_history>aff8db57ceb300100aaaba1ee8c6ac11:-193567891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-01 15:04:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>51646cccb4c2443e9cf0df5e38ae14a4</sys_id>
+        <sys_metadata>41c85b97dbb3001095fc294648961924</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.x_58872_needit_needit.logging.verbosity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_41c85b97dbb3001095fc294648961924</sys_update_name>
+        <sys_update_version display_value="sys_properties_41c85b97dbb3001095fc294648961924">abf8db57dbb3001095fc294648961912</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-01 15:04:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
